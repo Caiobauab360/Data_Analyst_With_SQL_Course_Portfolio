@@ -1,4 +1,4 @@
-# Data-analyst-with-SQL-Course-portfolio
+# Data analyst with SQL Course portfolio
 
 Welcome to My Data Analysis Portfolio
 This portfolio is a culmination of my journey through the Data Analysis with SQL course. Here, you'll find a collection of projects and exercises that showcase the knowledge and skills I've acquired during this learning experience.
